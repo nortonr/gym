@@ -1,3 +1,8 @@
+---
+title: Shoulders and Traps
+root: "/docs"
+parents: ["Get Started"]
+---
 <h1>
     Shoulders and Traps
 </h1>
