@@ -1,3 +1,8 @@
+---
+title: Chest and Triceps
+root: "/docs"
+parents: ["Get Started"]
+---
 <h1>
     Chest and Triceps
 </h1>
