@@ -1,3 +1,8 @@
+---
+title: Back and Biceps
+root: "/docs"
+parents: ["Get Started"]
+---
 <h1>
     Back and Biceps
 </h1>
