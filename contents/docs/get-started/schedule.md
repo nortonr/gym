@@ -1,3 +1,8 @@
+---
+title: Gym Schedule
+root: "/docs"
+parents: ["Get Started"]
+---
 <h1>
     Gym Schedule
 </h1>
