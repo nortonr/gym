@@ -1,3 +1,8 @@
+---
+title: Legs
+root: "/docs"
+parents: ["Get Started"]
+---
 <h1>
     Legs
 </h1>
